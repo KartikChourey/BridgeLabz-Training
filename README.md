@@ -26,7 +26,7 @@ BridgeLabz-Training/
 - Successfully pushed files to the remote repository.
 
 🔗 **Code Link:**  
-👉 [Day 1 – Basic Java Programs](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/programming-prerequisites)
+👉 [Day 1 – Basic Java Programs](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites)
 
 ---
 
@@ -43,7 +43,7 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:**  
-👉 [Day 2 – Programming Elements](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/programming-elements)
+👉 [Day 2 – Programming Elements](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements) 
 
 ---
 
@@ -60,7 +60,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 3 – Control Flow](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/control-flows)
+👉 [Day 3 – Control Flow](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
@@ -74,7 +74,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 4 – Arrays](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/arrays)
+👉 [Day 4 – Arrays](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -87,7 +87,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 5 – Strings](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/Strings)
+👉 [Day 5 – Strings](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 ---
 
@@ -100,7 +100,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 6 – Methods](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/Methods)
+👉 [Day 6 – Methods](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
 
 ---
 
@@ -113,7 +113,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 7 – Built-in Functions](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 7 – Built-in Functions](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/Built-in%20functions)
 
 ---
 
@@ -129,4 +129,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 8 – Scenario based questions](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)
+👉 [Day 8 – Scenario based questions](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
