@@ -33,6 +33,6 @@ public class TemperatureAnalysis {
         System.out.println("Average Temperature of the week: " + average);
         System.out.println("Maximum Temperature of the week: " + maxTemp);
 
-        sc.close();
+       
     }
 }
