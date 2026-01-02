@@ -41,7 +41,7 @@
   - Hospital Management System
 
 🔗 **Code Link:** 
-👉 [Day 11 – Keywords] (https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
+👉 [Day 11 – Keywords](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
 
 
  ---
@@ -55,7 +55,7 @@
 - Created UML diagrams.
 
 🔗 **Code Link:** 
-👉 [Day 11 – Keywords](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+👉 [Day 12 – Object Modeling](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
  ---
  
@@ -74,7 +74,7 @@
 
 
 🔗 **Code Link:** 
-👉 [Day 13 – Inheritance] (https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+👉 [Day 13 – Inheritance](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 --- 
 
@@ -88,7 +88,7 @@
 - Studied polymorphism.
 
 🔗 **Code Link:** 
-👉  [Day 13 – Polymorphism and Encapsulation] (https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
+👉  [Day 14 – Polymorphism and Encapsulation](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
 
 ---
 
