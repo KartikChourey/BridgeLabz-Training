@@ -92,6 +92,58 @@
 
 ---
 
+### 📅 Day 15 – Practiced Scenario-based Problems  of OOPS
+*(Date: 2-Jan-2026)* 
+
+- Solved Scenario based problems
+  - Hospital Patient Management System
+  - Vehicle Rental Application
+  - University Course Enrollment System
+  - E-Wallet Application
+  - Smart Home Automation System
+
+🔗*Code Link* <br> 
+[Day 15 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+### 📅 Day 16 – Practiced Scenario-based Problems of OOPS
+*(Date: 03-Jan-2026)* 
+
+- Solved Scenario based problems
+  - CabbyGo – A Ride-Hailing App in the Making
+  - MyBank – Managing Customer Accounts"
+
+🔗*Code Link* <br> 
+[Day 16 - Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+### 📅 Day 17 – Practiced Scenario-based Problems
+*(Date: 05-Jan-2026)* 
+
+- Solved Scenario based problems
+  - CampusConnect – College Information System
+  - SwiftCart – The Grocery Shopping App
+
+🔗*Code Link* <br> 
+[Day 17 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+### 📅 Day 18 – Practiced Scenario-based Problems
+*(Date: 06-Jan-2026)* 
+
+- Solved Scenario based problems
+  - "EduMentor – Personalized Learning Platform"
+  - "FitTrack – Your Personal Fitness Tracker"
+
+🔗*Code Link* <br> 
+[Day 17 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+
 
 
    
