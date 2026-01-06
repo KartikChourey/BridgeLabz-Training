@@ -130,3 +130,254 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 8 – Scenario based questions](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 9 – Object-oriented Programming Fundamental
+*(Date: 26-Dec-2025)*
+
+- Explored the concept of procedural programming
+- Understood the difference between objec oriented-programming and peocedural-oriented programming.
+- Studied the basics of object-oriented programming concepts.
+- Explored constructors and memory allocation.
+- Practiced classes and objects and implemented encapsulation using access modifiers.
+
+🔗*Code Link* <br>
+👉 [Day 9 - Object and class](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectandclass)
+
+---
+
+
+### 📅 Day 9 – Practiced Scenario-based & Leetcode Problems
+*(Date: 26-Dec-2025)*
+
+- Practiced scenario-based problems
+- Practiced leetcode problems
+
+🔗 *Code Link:*  
+
+👉 [Day 3 – Scenario-based problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+👉 [Day 3 – Leetcode problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+
+
+---
+
+
+
+### 📅 Day 10 – Java Constructors, Instance vs. Class Variables, Access Modifiers
+*(Date: 27-Dec-2025)* 
+
+- Learned how constructors initialize objecs in java.
+- Practiced parametrized constructors using real-world examples.
+- Understood the differences between instance variables and class (static) variables.
+- Used static methods to handle shared data. 
+- Learned and applied access modifiers.
+- Practiced inheritance to demonstrate access control.
+
+🔗*Code Link* <br> 
+👉 [Day 10 - Constructors](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+ ---
+
+
+ ### 📅 Day 10 – Practiced Scenario-based & Leetcode Problems
+*(Date: 27-Dec-2025)*
+
+- Practiced scenario-based problems
+- Practiced leetcode problems
+
+🔗 *Code Link:*  
+
+👉 [Day 10 – Scenario-based problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+👉 [Day 10 – Leetcode problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
+
+### 📅 Day 11 – This, Static, Final keywords & Instance of operators Concept
+*(Date: 29-Dec-2025)* 
+
+- Explored various keywords like This, Static and Final
+- Studied the instance of operator concept
+- Solved logical problems such as
+  - Bank Account System
+  - Library Management System
+  - Employee Management System
+  - University Student Management System
+  - Vehicle Registration System
+  - Product Management System
+  - Hospital Management System
+
+🔗*Code Link* <br> 
+👉 [Day 11 - Keywords](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
+
+ ---
+
+
+### 📅 Day 11 – Practiced Scenario-based & Leetcode Problems
+*(Date: 29-Dec-2025)*
+
+- Practiced scenario-based problems
+- Practiced leetcode problems on string
+
+🔗 *Code Link:*  
+
+👉 [Day 11 – Scenario-based problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+👉 [Day 11 – Leetcode problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
+
+### 📅 Day 12 – Practiced Scenario-based
+*(Date: 30-Dec-2025)*
+
+- Practiced scenario-based problems
+
+🔗 *Code Link:* 
+
+👉 [Day 12 – Scenario-based problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 12 – Object Modeling, Class Diagram
+*(Date: 30-Dec-2025)* 
+
+- Studied objects and classes.
+- Explored object oriented design principles
+- Learned about object diagrams, class diagrams, sequence diagrams.
+- Created UML diagrams.
+
+🔗*Code Link* <br> 
+[Day 12 - Object Modeling](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+ ---
+
+ ### 📅 Day 13 – Practiced Scenario-based & Leetcode Problems
+*(Date: 31-Dec-2025)*
+
+- Practiced scenario-based problems
+    - Digital Watch Simulation
+    - Online Quiz Application
+    - Currency Exchange Kiosk
+    - Bus Route Distance Tracker
+    - Festival Lucky Draw
+  
+- Practiced leetcode problems on string
+
+🔗 *Code Link:*  
+
+👉 [Day 13 – Scenario-based problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 13 – Inheritance
+*(Date: 31-Dec-2025)* 
+
+- Studied inheritance.
+- Single Level Inheritance.
+- Multilevel Inheritance.
+- Hierarchical Inheritance.
+- Key Features of Inheritance.
+- Method Overriding.
+- Constructor Inheritance in Java.
+- Polymorphism and Inheritance.
+- Access Modifiers and Inheritance.
+
+
+🔗*Code Link* <br> 
+[Day 13 -Inheritance](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+--- 
+
+### 📅 Day 14 – Encapsulation, Interface, Abstract Classes, and Polymorphism 
+*(Date: 1-Jan-2026)* 
+
+- Studied encapsulation.
+- Explored interface.
+- Studied abstract classes.
+- Studied polymorphism.
+
+🔗*Code Link* <br> 
+[Day 14 -Encapsulation, Polymorphism, Interface and Abstract Class](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
+
+---
+
+
+### 📅 Day 15 – Practiced Scenario-based Problems  of OOPS
+*(Date: 2-Jan-2026)* 
+
+- Solved Scenario based problems
+  - Hospital Patient Management System
+  - Vehicle Rental Application
+  - University Course Enrollment System
+  - E-Wallet Application
+  - Smart Home Automation System
+
+🔗*Code Link* <br> 
+[Day 15 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+
+### 📅 Day 15 – Data Structure Introduction and LinkedList
+*(Date: 02-Jan-2026)*
+
+- Explored the basics of data structures.
+- Revised the concepts of array.
+- Learned the key features of data structures in java.
+- Studied and implemented singly linked list, doubly linked list, double linked list and circular linked list.
+
+🔗 *Code Link:*  
+👉 [Day 15 – LinkedList](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist)
+
+---
+
+
+### 📅 Day 16 – Practiced Scenario-based Problems of OOPS
+*(Date: 03-Jan-2026)* 
+
+- Solved Scenario based problems
+  - CabbyGo – A Ride-Hailing App in the Making
+  - MyBank – Managing Customer Accounts"
+
+🔗*Code Link* <br> 
+[Day 16 - Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+### 📅 Day 16 – Stack and  Queue
+*(Date: 03-Jan-2026)*
+
+- Learned Stack and its implementation
+- Studied Queue and its implementation
+
+🔗 *Code Link:*  
+👉 [Day 16 – Stack and Queue](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
+
+---
+
+### 📅 Day 17 – Practiced Scenario-based Problems
+*(Date: 05-Jan-2026)* 
+
+- Solved Scenario based problems
+  - CampusConnect – College Information System
+  - SwiftCart – The Grocery Shopping App
+
+🔗*Code Link* <br> 
+[Day 17 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+### 📅 Day 17 –HashMap and Hashing Function
+*(Date: 05-Jan-2026)*
+- Studied HashMap and Hashing Functions and its implementation
+- learned about optimizing programs using hashmap
+- learned about HashSet
+
+👉 [Day 16 – HashMap and HashFunction](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/hashmap)
+
+---
