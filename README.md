@@ -381,3 +381,66 @@ BridgeLabz-Training/
 👉 [Day 16 – HashMap and HashFunction](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/hashmap)
 
 ---
+
+### 📅 Day 18 – Sorting Algorithms
+*(Date: 06-Jan-2026)*
+
+- Studied various sorting algorithms like:
+  - Bubble sort
+  - Insertion sort
+  - Merge sort
+  - Quick sort
+
+- Explored various sorting techniques like:
+  - Selection sort
+  - Heap sort
+  - Counting sort
+  - Radix sort
+  - Bucket sort
+
+- Implemented the sorting techniques
+
+👉 [Day 3 – Sorting Algorithms](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/sortingalgorithms)
+
+---
+
+### 📅 Day 18 – Practiced Scenario-based Problems
+*(Date: 06-Jan-2026)* 
+
+- Solved Scenario based problems
+  - EduMentor – Personalized Learning Platform
+  - FitTrack – Your Personal Fitness Tracker
+  - PetPal – Virtual Pet Care App
+  - EventEase – Event Management Platform
+
+🔗*Code Link* <br> 
+👉 [Day 12 - Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+### 📅 Day 19 – Linear Search and Binary Search
+*(Date: 06-Jan-2026)*
+
+- Explored StringBuilder
+- Studied StringBuffer
+- Learned FileReader
+- Learned InputStreamReader
+- Learned Linear Search 
+- Learned Binary Search
+
+🔗*Code Link* <br> 
+👉 [Day 19 - Linear and Binary Search](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/searchingalgorithms)
+
+---
+
+ ### 📅 Day 19 – Practiced Scenario-based Problems
+*(Date: 07-Jan-2026)* 
+
+- Solved Scenario based problems
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+
+  🔗*Code Link* <br> 
+👉 [Day 19 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
