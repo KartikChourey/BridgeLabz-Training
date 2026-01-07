@@ -1,0 +1,28 @@
+package petpal;
+
+public class PetPal {
+
+    public static void main(String[] args) {
+
+        Pet pet1 = new Dog("Buddy", 3);
+        Pet pet2 = new Cat("Whiskers", 2);
+        Pet pet3 = new Bird("Tweety", 1);
+
+        pet1.makeSound();
+        pet1.play();
+        pet1.feed();
+        pet1.showStatus();
+
+        System.out.println();
+
+        pet2.makeSound();
+        pet2.sleep();
+        pet2.showStatus();
+
+        System.out.println();
+
+        pet3.makeSound();
+        pet3.play();
+        pet3.showStatus();
+    }
+}
