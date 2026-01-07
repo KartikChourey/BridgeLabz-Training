@@ -42,3 +42,17 @@
 
 ---
 
+### 📅 Day 19 – Linear Search and Binary Search
+*(Date: 07-Jan-2026)*
+
+- Explored StringBuilder
+- Studied StringBuffer
+- Learned FileReader
+- Learned InputStreamReader
+- Learned Linear Search 
+- Learned Binary Search
+
+🔗*Code Link* <br> 
+👉 [Day 19 - Linear and Binary Search](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/sortingalgorithms)
+
+---
