@@ -444,3 +444,16 @@ BridgeLabz-Training/
 👉 [Day 19 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
+
+### 📅 Day 20 – Practiced Scenario-based Problems
+*(Date: 08-Jan-2026)* 
+
+- Solved Scenario based problems
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Itinerary Planner
+
+  🔗*Code Link* <br> 
+[Day 20 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
