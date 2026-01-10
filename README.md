@@ -457,3 +457,21 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Day 21 – Practiced Scenario-based Problems
+*(Date: 09-Jan-2026)* 
+
+- Solved Scenario based problems
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+
+  🔗*Code Link* <br> 
+[Day 20 -Scenario-based problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+- Practiced Leetcode Problems
+  
+  🔗*Code Link* <br> 
+[Day 20 -Leecode problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
