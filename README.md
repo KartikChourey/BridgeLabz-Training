@@ -466,12 +466,12 @@ BridgeLabz-Training/
   - SkillForge – Online Learning Portal
 
   🔗*Code Link* <br> 
-[Day 20 -Scenario-based problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+[Day 21 -Scenario-based problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 - Practiced Leetcode Problems
   
   🔗*Code Link* <br> 
-[Day 20 -Leecode problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+[Day 21 -Leecode problems](https://github.com/KartikChourey/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
 
