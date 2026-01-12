@@ -475,3 +475,15 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Day 22  – DSA-Scenario-Based Questions
+*(Date: 10-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- BookShelf – Library Organizer 
+- BrowserBuddy – Tab History Manager
+- AmbulanceRoute – Emergency Patient Navigation 
+
+🔗*Code Link* <br> 
+👉 [Day 22 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
