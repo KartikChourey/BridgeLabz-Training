@@ -70,4 +70,17 @@
 
 ---
 
+### 📅 Day 23  – Scenario-Based
+*(Date: 12-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- CallCenter – Customer Queue Manager (Queue + HashMap)
+- TrainCompanion – Compartment Navigation System 
+- TextEditor – Undo/Redo Functionality 
+
+🔗*Code Link* <br> 
+👉 [Day 22 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
 
