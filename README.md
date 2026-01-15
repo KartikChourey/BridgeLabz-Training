@@ -79,7 +79,34 @@
 - TextEditor – Undo/Redo Functionality 
 
 🔗*Code Link* <br> 
-👉 [Day 22 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+👉 [Day 23 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 24 – Algorithm Analysis & DSA Scenarios  
+*(Date: 13-Jan-2026)*
+
+- Submitted **Algorithm Runtime Analysis & Big-O Notation**.
+- Studied **Linear Search vs Binary Search**.
+- Performed **sorting algorithm comparison**.
+- Analyzed performance through problem statements:
+  - String Concatenation Performance
+  - Large File Reading Efficiency
+  - Recursive vs Iterative Fibonacci
+  - Data Structure Comparison for Searching
+  
+🔗*Code Link* <br> 
+👉 [Day 24 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/performance)
+
+- Practiced DSA scenario-based problems:
+  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap)
+  
+🔗*Code Link* <br> 
+👉 [Day 24 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
 
 ---
 
