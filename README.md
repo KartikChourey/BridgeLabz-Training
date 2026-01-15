@@ -176,6 +176,18 @@
   - GameBox – Mobile Game Distribution Platform
 
   🔗*Code Link* <br> 
+[Day 23 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+### 📅 Day 24– Practiced Scenario-based Problems
+*(Date: 13-Jan-2026)* 
+
+- Solved Scenario based problems
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary – Java OOP Scenario
+
+  🔗*Code Link* <br> 
 [Day 20 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
