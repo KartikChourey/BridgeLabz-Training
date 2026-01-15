@@ -527,7 +527,7 @@ BridgeLabz-Training/
   - Data Structure Comparison for Searching
   
 🔗*Code Link* <br> 
-👉 [Day 24 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/performance)
+👉 [Day 24 - Algorithm-Analysis](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/performance)
 
 - Practiced DSA scenario-based problems:
   - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
@@ -549,4 +549,4 @@ BridgeLabz-Training/
   - Bird Sanctuary – Java OOP Scenario
 
   🔗*Code Link* <br> 
-👉 [Day 20 -Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+👉 [Day 20 -Oops-Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
