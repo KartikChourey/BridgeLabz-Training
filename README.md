@@ -107,7 +107,22 @@
 🔗*Code Link* <br> 
 👉 [Day 24 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
 
+---
+
+### 📅 Day 25  – Scenario-Based
+*(Date: 15-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- HospitalQueue – Patient Sorting by Criticality
+- SmartShelf – Real-Time Book Arrangement
+- EventManager – Ticket Price Optimizer
+- ExamCell – Student Rank Generator 
+
+🔗*Code Link* <br> 
+👉 [Day 25 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 ---
+
+
 
 
