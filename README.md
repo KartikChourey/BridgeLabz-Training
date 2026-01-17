@@ -540,7 +540,6 @@ BridgeLabz-Training/
 
 ---
 
-
 ### 📅 Day 24– Practiced Scenario-based Problems
 *(Date: 13-Jan-2026)* 
 
@@ -550,3 +549,19 @@ BridgeLabz-Training/
 
   🔗*Code Link* <br> 
 👉 [Day 20 -Oops-Scenario-based problem](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+### 📅 Day 25  – Scenario-Based
+*(Date: 15-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- HospitalQueue – Patient Sorting by Criticality
+- SmartShelf – Real-Time Book Arrangement
+- EventManager – Ticket Price Optimizer
+- ExamCell – Student Rank Generator 
+
+🔗*Code Link* <br> 
+👉 [Day 25 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
