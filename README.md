@@ -123,6 +123,20 @@
 
 ---
 
+### 📅 Day 26  – Scenario-Based
+*(Date: 16-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- RoboWarehouse – Shelf Loading Robot
+- CinemaHouse – Movie Time Sorting
+- CropMonitor – Sensor Data Ordering
+
+🔗*Code Link* <br> 
+👉 [Day 26 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+
 
 
 
