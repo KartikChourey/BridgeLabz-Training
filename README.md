@@ -192,6 +192,17 @@
 
 ---
 
+### 📅 Day 27  – Scenario-Based
+*(Date: 17-Jan-2026)*
+
+- Practiced Scenario-Based Questions on OOPS
+-  GeoMeasure - Classes, Objects, Constructors, Encapsulation
+-  Bag-n-Ball Organizer - Classes, Objects, Inheritance (optional), Encapsulation, Method Design
+🔗*Code Link* <br> 
+👉 [Day 27 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
 
 
 
