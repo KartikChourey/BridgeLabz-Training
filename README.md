@@ -565,3 +565,41 @@ BridgeLabz-Training/
 👉 [Day 25 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 ---
+
+### 📅 Day 26  – Scenario-Based
+*(Date: 16-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- RoboWarehouse – Shelf Loading Robot
+- CinemaHouse – Movie Time Sorting
+- CropMonitor – Sensor Data Ordering
+
+🔗*Code Link* <br> 
+👉 [Day 26 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 27  – Scenario-Based
+*(Date: 17-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- ArtExpo – Sort Artists by Registration Time
+- FleetManager – Vehicle Maintenance Scheduler
+- IceCreamRush – Sorting Flavors by Popularity
+- SmartLibrary – Auto-Sort Borrowed Books
+🔗*Code Link* <br> 
+👉 [Day 27 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 27  – Scenario-Based
+*(Date: 17-Jan-2026)*
+
+- Practiced Scenario-Based Questions on OOPS
+-  GeoMeasure - Classes, Objects, Constructors, Encapsulation
+-  Bag-n-Ball Organizer - Classes, Objects, Inheritance (optional), Encapsulation, Method Design
+🔗*Code Link* <br> 
+👉 [Day 27 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
