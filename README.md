@@ -136,6 +136,33 @@
 
 ---
 
+### 📅 Day 27 – Scenario-Based
+*(Date: 17-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- IceCreamRush – Sorting Flavors by Popularity
+- SmartLibrary – Auto-Sort Borrowed Books
+- ArtExpo – Sort Artists by Registration Time
+- FleetManager – Vehicle Maintenance Scheduler
+
+🔗*Code Link* <br> 
+👉 [Day 27 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 28  – Scenario-Based
+*(Date: 19-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- EduResults – Rank Sheet Generator
+- FlashDealz – Product Sorting by Discount
+- FitnessTracker – Daily Step Count Ranking 
+
+🔗*Code Link* <br> 
+👉 [Day 28 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
 
 
 
