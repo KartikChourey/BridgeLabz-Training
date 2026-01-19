@@ -203,6 +203,16 @@
 
 ---
 
+### 📅 Day 28  – Scenario-Based
+*(Date: 18-Jan-2026)*
+
+- Practiced Scenario-Based Questions on OOPS
+- Address Book System - Classes, Objects, Encapsulation, Constructors, Access Modifiers, Collections
+🔗*Code Link* <br> 
+👉 [Day 28 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
 
 
 
