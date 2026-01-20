@@ -163,6 +163,19 @@
 
 ---
 
+### 📅 Day 29  – Scenario-Based
+*(Date: 20-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- MovieTime – Theater Show Listings
+- FoodFest – Sorting Stalls by Customer Footfall
+- GamerZone – High Score Ranking System 
+
+🔗*Code Link* <br> 
+👉 [Day 29 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
 
 
 
