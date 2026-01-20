@@ -615,5 +615,39 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Day 28  – Java Collections - COLLECTIONS
+*(Date: 19-Jan-2026)*
+- Learned About Set , List ,Map and different interfaces
+- Implemented Different Operations on These Collections
+- Did the Implementation of Stack And Queue
+
+🔗*Code Link* <br> 
+👉 [Day 28 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
+
+---
+
+### 📅 Day 28  – Scenario-Based
+*(Date: 19-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- EduResults – Rank Sheet Generator
+- FlashDealz – Product Sorting by Discount
+- FitnessTracker – Daily Step Count Ranking 
+
+🔗*Code Link* <br> 
+👉 [Day 28 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 28  – Scenario-Based
+*(Date: 19-Jan-2026)*
+
+- Practiced Scenario-Based Questions on OOPS
+- Address Book System - Classes, Objects, Encapsulation, Constructors, Access Modifiers, Collections
+🔗*Code Link* <br> 
+👉 [Day 28 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
 
 
