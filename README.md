@@ -674,7 +674,7 @@ Scenario-Based On Tree
 
 
 🔗*Code Link* <br> 
-👉 [Day 28 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+👉 [Day 30 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 
 
