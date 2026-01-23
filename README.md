@@ -676,5 +676,18 @@ Scenario-Based On Tree
 🔗*Code Link* <br> 
 👉 [Day 30 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
 
+---
+
+### 📅 Day 31  – Scenario-Based
+*(Date: 22-Jan-2026)*
+
+Scenario-Based On AVL Tree
+- Gaming App - Real-Time Leaderboard
+- Online Ticket Booking by Time
+- Hospital Queue Management
+
+🔗*Code Link* <br> 
+👉 [Day 31 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
 
 
