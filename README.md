@@ -176,6 +176,39 @@
 
 ---
 
+### 📅 Day 30  – Scenario-Based
+*(Date: 21-Jan-2026)*
+
+- Practiced Scenario-Based Questions on DSA
+- TailorShop – Sorting Orders by Delivery Deadline
+- MedWarehouse – Sorting Medicines by Expiry
+
+Scenario-Based On Tree
+- University's Digital Record System
+- E-Commerce Product Inventory
+- Music App - Organize Songs by Track ID
+
+
+🔗*Code Link* <br> 
+👉 [Day 30 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 31  – Scenario-Based
+*(Date: 22-Jan-2026)*
+
+Scenario-Based On AVL Tree
+- Gaming App - Real-Time Leaderboard
+- Online Ticket Booking by Time
+- Hospital Queue Management
+
+🔗*Code Link* <br> 
+👉 [Day 31 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+
+
+
+
 
 
 
