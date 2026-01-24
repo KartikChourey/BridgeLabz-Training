@@ -21,4 +21,41 @@
 
 ---
 
+### 📅 Day 32  – Java Streams
+*(Date: 23-Jan-2026)*
+
+- Learned about Java Streams
+- Java I/O Streams
+- Learned about different Types of Streams
+1. File Streams
+2. Object Streams
+3. ByteArray Streams
+4. Buffered Streams
+5. Reader and Writer
+- Key Considerations
+- Best Practices
+
+
+🔗*Code Link* <br> 
+👉 [Day 32 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/javastreams)
+
+---
+
+### 📅 Day 32  – Collections - Scenario-Based
+*(Date: 23-Jan-2026)*
+
+Scenario-Based On Collections
+- ResumeAnalyzer – Smart Resume Filtering System
+- TravelLog – Trip Organizer for Backpackers
+- FeedbackGuru – Smart Survey Analyzer
+- CodeRepoCleaner – Java File Scanner and Organizer
+- ExamScanner – Digital Answer Sheet Validator
+
+🔗*Code Link* <br> 
+👉 [Day 32 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based)
+
+---
+
+
+
 
