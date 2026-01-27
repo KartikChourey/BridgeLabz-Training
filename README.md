@@ -724,6 +724,41 @@ Scenario-Based On Collections
 🔗*Code Link* <br> 
 👉 [Day 32 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/javastreams)
 
+---
+
+### 📅 Day 33  – Collections - Scenario-Based
+*(Date: 24-Jan-2026)*
+
+Scenario-Based On Collections
+- MedInventory – Smart Hospital Inventory Tracker
+- ChatLogParser – Messaging Pattern Analyzer
+- SongVault – Personal Music Library Manager
+- ExamResultUploader – Bulk Marks Processing
+- DealTracker – E-Commerce Discount Validator
+
+🔗*Code Link* <br> 
+👉 [Day 33 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based)
+
+---
+
+### 📅 Day 34  – Exceptions
+*(Date: 25-Jan-2026)*
+
+Exceptions 
+Types of Exceptions
+Checked Exceptions,
+Unchecked Exceptions
+Custom Exceptions
+Handling Exceptions 
+try-catch blocks
+try-catch-finally blocks
+try-with-resources statement
+throws clause
+throw statement
+
+🔗*Code Link* <br> 
+👉 [Day 34 - Exceptions](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exception)
+
 
 
 
