@@ -56,6 +56,57 @@ Scenario-Based On Collections
 
 ---
 
+### 📅 Day 33  – Collections - Scenario-Based
+*(Date: 24-Jan-2026)*
+
+Scenario-Based On Collections
+- MedInventory – Smart Hospital Inventory Tracker
+- ChatLogParser – Messaging Pattern Analyzer
+- SongVault – Personal Music Library Manager
+- ExamResultUploader – Bulk Marks Processing
+- DealTracker – E-Commerce Discount Validator
+
+🔗*Code Link* <br> 
+👉 [Day 33 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based)
+
+---
+
+### 📅 Day 34  – Exceptions
+*(Date: 25-Jan-2026)*
+
+Exceptions 
+Types of Exceptions
+Checked Exceptions,
+Unchecked Exceptions
+Custom Exceptions
+Handling Exceptions 
+try-catch blocks
+try-catch-finally blocks
+try-with-resources statement
+throws clause
+throw statement
+
+🔗*Code Link* <br> 
+👉 [Day 34 - Exceptions](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exception)
+
+---
+
+### 📅 Day 35  – Regex and JUnit
+*(Date: 26-Jan-2026)*
+
+Topics Covered And Practiced : 
+JUnit-
+Introduction to JUnit Framework, JUnit Annotations, Writing Test Cases, Structure of a Test Class, Assertions
+
+Regex-
+Regex ,MetaCharacter , Quantifier ,Java Regex API ,Pattern ,Matcher
+
+🔗*Code Link* <br> 
+👉 [Day 35 - JUnit](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/JUnit)
+🔗*Code Link* <br> 
+👉 [Day 35 - Regex](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
+
+
 
 
 
