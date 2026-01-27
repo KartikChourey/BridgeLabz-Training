@@ -759,6 +759,25 @@ throw statement
 🔗*Code Link* <br> 
 👉 [Day 34 - Exceptions](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exception)
 
+---
+
+### 📅 Day 35  – Regex and JUnit
+*(Date: 26-Jan-2026)*
+
+Topics Covered And Practiced : 
+JUnit-
+Introduction to JUnit Framework, JUnit Annotations, Writing Test Cases, Structure of a Test Class, Assertions
+
+Regex-
+Regex ,MetaCharacter , Quantifier ,Java Regex API ,Pattern ,Matcher
+
+🔗*Code Link* <br> 
+👉 [Day 35 - JUnit](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/JUnit)
+🔗*Code Link* <br> 
+👉 [Day 35 - Regex](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
+
+
+
 
 
 
