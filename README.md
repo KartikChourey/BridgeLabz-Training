@@ -776,6 +776,22 @@ Regex ,MetaCharacter , Quantifier ,Java Regex API ,Pattern ,Matcher
 🔗*Code Link* <br> 
 👉 [Day 35 - Regex](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
 
+---
+
+### 📅 Day 36  – I/O Programming - CSV Handling 
+*(Date: 27-Jan-2026)*
+
+Topics Covered And Practiced : 
+-Introduction to CSV
+-Reading CSV Files
+-Writing CSV Files
+-Parsing CSV Data
+-Data Validation
+
+🔗*Code Link* <br> 
+👉 [Day 36 - CSV_Handling](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/ioStreamsPractice/src/com/CSVdatahandling)
+
+
 
 
 
