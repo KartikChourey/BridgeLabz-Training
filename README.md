@@ -791,6 +791,21 @@ Topics Covered And Practiced :
 🔗*Code Link* <br> 
 👉 [Day 36 - CSV_Handling](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/ioStreamsPractice/src/com/CSVdatahandling)
 
+---
+
+### 📅 Day 37  – I/O Programming - Json Handling
+*(Date: 28-Jan-2026)*
+
+Topics Covered And Practiced : 
+Introduction to JSON
+Reading JSON Data
+Writing JSON Data
+Parsing JSON Data
+JSON Schema Validation
+
+🔗*Code Link* <br> 
+👉 [Day 37 - JSON Data](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/ioStreamsPractice/src/com/JSONdata)
+
 
 
 
