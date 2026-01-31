@@ -1,132 +1,51 @@
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+### 📅 Day 39  – Java 8 - Lambda Expressions
+*(Date: 30-Jan-2026)*
+
+Topics Covered And Practiced : 
+1. Lambda Expressions
+2. Method References
+Practiced Problems On Lamda Expressions and Method References
+
+🔗*Code Link* <br> 
+👉 [Day 39 - Lambda Expressions](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/lambdaexpression)
 
 ---
 
-### 🗓 Day 1 – Git, GitHub Setup And Basic Java Programs
-**(Date: 16-Dec-2025)**
+### 📅 Day 39  – Java 8 - Functional Interface
+*(Date: 30-Jan-2026)*
 
-- Installed and configured Git.
-- Set up GitHub repository.
-```
-BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
-```
-- Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
-- Successfully pushed files to the remote repository.
+Topics Covered And Practiced : 
+1. Defining and Implementing Interfaces (Best Practices)
+2. Functional Interfaces
+3. Default and Static Methods in Interfaces
+4. Marker Interfaces
 
-🔗 **Code Link:**  
-👉 [Day 1 – Basic Java Programs](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/programming-prerequisites)
+🔗*Code Link* <br> 
+👉 [Day 39 - Functional Interface](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/functionalinterface)
 
 ---
 
-### 🗓 Day 2 – Git Practice & Programming Elements in Java 
-**(Date: 17-Dec-2025)**
+### 📅 Day 40  – Java 8 - Stream API
+*(Date: 31-Jan-2026)*
 
-- Practiced Git workflow to understand commits and version control.
-- Studied Java programming elements:
-  - Variables and data types
-  - Operators
-  - User input and output
-- Solved practice problems based on programming elements.
-- Committed and pushed solutions to the repository.
+Topics Covered And Practiced : 
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
 
-
-🔗 **Code Link:**  
-👉 [Day 2 – Programming Elements](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/programming-elements)
-
----
-
-### 🗓 Day 3 – Control Flow & Logical Constructs  
-**(Date: 18-Dec-2025)**
-
-- Studied logical constructs in Java.
-- Practiced looping statements:
-  - for loop
-  - while loop
-  - do-while loop
-- Used `break` and `continue` statements.
-- Solved logical problems.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 3 – Control Flow](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/control-flows)
+  🔗*Code Link* <br> 
+👉 [Day 40 - Stream API](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/streamapi)
 
 ---
 
-### 🗓 Day 4 – Arrays & Problem Solving 
-**(Date: 19-Dec-2025)**
+### 📅 Day 40  – Java 8 - Collectors
+*(Date: 31-Jan-2026)*
 
-- Studied arrays in Java.
-- Practiced array traversal and operations.
-- Solved problems related to arrays.
-- Strengthened logical thinking using array problems.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 4 – Arrays](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/arrays)
-
----
-
-### 🗓 Day 5 – Strings
-**(Date: 20-Dec-2025)**
-
-- Studied String concepts.
-- Implemented programs for string manipulation.
-- Solved problems related to strings.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 5 – Strings](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/Strings)
-
----
-
-### 🗓 Day 6 – Methods  
-**(Date: 22-Dec-2025)**
-
-- Studied Java methods.
-- Practiced reusable logic using methods.
-- Strengthened logical thinking about method call flow.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 6 – Methods](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/Methods)
-
----
-
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
-**(Date: 23-Dec-2025)**
-
-- Practiced Java built-in functions.
-- Implemented utility programs.
-- Improved understanding of input handling and type conversion.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 7 – Built-in Functions](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/gcr-codebase/extras)
-
----
-
-### 🗓 Day 8 – Scenario based questions
-**(Date: 24-Dec-2025)**
-
-- Practiced real world problems.
-- Implemented programs such as:
-  - Coffee price calculator
-  - Finding bmi and bmi category
-- Improved understanding of Input handling and Real world problems
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 8 – Scenario based questions](https://github.com/KartikChourey/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)
+Topics Covered And Practiced : 
+- Collectors - Roles and Capabilities
+  
+🔗*Code Link* <br> 
+👉 [Day 40 - Collectors](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/collectors)
