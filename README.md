@@ -810,6 +810,7 @@ JSON Schema Validation
 
 ### 📅 Day 38  – IOStream Scenario-Based
 *(Date: 29-Jan-2026)*
+
 Practiced Scenario Based Problems On Json and Annotations and CSV handling :
 - HealthCheckPro – API Metadata Validator
 - MarkMate – Student Marksheet Generator (CSV + JSON)
@@ -817,6 +818,19 @@ Practiced Scenario Based Problems On Json and Annotations and CSV handling :
 
 🔗*Code Link* <br> 
 👉 [Day 38 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based)
+
+---
+
+### 📅 Day 39  – Java 8 - Lambda Expressions
+*(Date: 30-Jan-2026)*
+
+Topics Covered And Practiced : 
+1. Lambda Expressions
+2. Method References
+Practiced Problems On Lamda Expressions and Method References
+
+🔗*Code Link* <br> 
+👉 [Day 39 - Lambda Expressions](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/lambdaexpression)
 
 
 
