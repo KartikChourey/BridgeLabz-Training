@@ -806,6 +806,18 @@ JSON Schema Validation
 🔗*Code Link* <br> 
 👉 [Day 37 - JSON Data](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/ioStreamsPractice/src/com/JSONdata)
 
+---
+
+### 📅 Day 38  – IOStream Scenario-Based
+*(Date: 29-Jan-2026)*
+Practiced Scenario Based Problems On Json and Annotations and CSV handling :
+- HealthCheckPro – API Metadata Validator
+- MarkMate – Student Marksheet Generator (CSV + JSON)
+- EventTracker – Auto Audit System (Annotations + Reflection + JSON)
+
+🔗*Code Link* <br> 
+👉 [Day 38 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based)
+
 
 
 
