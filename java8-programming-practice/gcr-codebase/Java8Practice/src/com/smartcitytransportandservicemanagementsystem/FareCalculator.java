@@ -1,0 +1,6 @@
+package com.smartcitytransportandservicemanagementsystem;
+
+@FunctionalInterface
+interface FareCalculator {
+    double calculateFare(double distance);
+}
