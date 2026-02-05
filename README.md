@@ -886,6 +886,34 @@ Practiced Scenario-Based Questions On Java 8 Features
 🔗*Code Link* <br> 
 👉 [Day 41 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/employeemanagement)
 
+---
+
+### 📅 Day 42  – Java 8 - Scenario-Based
+*(Date: 03-feb-2026)*
+
+Practiced Scenario-Based Questions On Java 8 Features
+- Realtime Scenario-Based Questions on Functional Interfaces and lamda Expressions
+- Variations on Types of Functional Interfaces
+- Employee Management System using java 8
+  
+🔗*Code Link* <br> 
+👉 [Day 42 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based)
+
+---
+
+### 📅 Day 43  – Java 8 - Scenario-Based
+*(Date: 04-feb-2026)*
+
+Practiced Scenario-Based Questions On Java 8 Features
+- Realtime Scenario-Based Questions on Functional Interfaces and lamda Expressions
+- Variations on Types of Functional Interfaces
+- Employee Management System using java 8
+  
+🔗*Code Link* <br> 
+👉 [Day 43 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based)
+
+
+
 
 
 
