@@ -912,6 +912,34 @@ Practiced Scenario-Based Questions On Java 8 Features
 🔗*Code Link* <br> 
 👉 [Day 43 - Scenario-Based](https://github.com/KartikChourey/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based)
 
+--- 
+
+### 📅 Day 44  – Java-Design-Patterns
+*(Date: 05-feb-2026)*
+
+Introduction to Design Principles
+1. Single Responsibility Principle (SRP)
+2. Open/Closed Principle (OCP)
+3. Liskov Substitution Principle (LSP)
+4. Interface Segregation Principle (ISP)
+5. Dependency Inversion Principle (DIP)
+6. Don't Repeat Yourself (DRY)
+7. Keep It Simple, Stupid (KISS)
+8. You Aren't Gonna Need It (YAGNI)
+
+Introduction to GoF Design Pattern
+Categories of Patterns (GoF classification)
+Singleton Pattern
+Factory Pattern
+Observer Pattern
+Builder Pattern
+UML Designing
+
+🔗*Code Link* <br> 
+👉 [Day 44 - Desgin-Patterns](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPractice/src/com/librarymanagementsystem)
+
+
+
 
 
 
