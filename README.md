@@ -938,6 +938,23 @@ UML Designing
 🔗*Code Link* <br> 
 👉 [Day 44 - Desgin-Patterns](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPractice/src/com/librarymanagementsystem)
 
+---
+
+### 📅 Day 45  – Multi-Threading
+*(Date: 06-feb-2026)*
+
+- Learned about multi-threading
+- Different states of thread
+- Practiced Problems on Multi-threading
+- Different Operations on thread
+
+🔗*Code Link* <br> 
+👉 [Day 45 - Multi-Threading](https://github.com/KartikChourey/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPractice/src/com/multithreading)
+
+--- 
+
+
+
 
 
 
