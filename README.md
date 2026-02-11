@@ -962,6 +962,20 @@ UML Designing
 
 --- 
 
+### 📅 Day 47  – MySQL Practice
+*(Date: 09-feb-2026)*
+
+- Practiced Questions On MySQL 
+- Made Database for Employee Management System
+- Designed Schema For Book Inventory Management
+
+🔗*Code Link* <br> 
+👉 [Day 47 - MySQL Practice](https://github.com/KartikChourey/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/PracticeExercise)
+
+--- 
+
+
+
 
 
 
