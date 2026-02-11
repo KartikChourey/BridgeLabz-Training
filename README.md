@@ -974,6 +974,18 @@ UML Designing
 
 --- 
 
+### 📅 Day 48  – JDBC
+*(Date: 10-feb-2026)*
+
+- Learned About JDBC
+- Java Database Connectivity
+- Components Of JDBC
+- How TO Connect JDBC to Java Program And Data
+
+---
+
+
+
 
 
 
