@@ -953,6 +953,18 @@ UML Designing
 
 --- 
 
+### 📅 Day 46  – MySQL
+*(Date: 07-feb-2026)*
+
+- Learned about MySql and its features
+- Learned that how DataBases Works
+- Learned how Basic DML DDL commands
+
+--- 
+
+
+
+
 
 
 
