@@ -984,6 +984,53 @@ UML Designing
 
 ---
 
+### 📅 Day 49  – JDBC
+*(Date: 11-feb-2026)*
+
+- Building Connection Using JDBC 
+- How to use JDBC and Data Bases
+
+---
+
+### 📅 Day 50  – JDBC
+*(Date: 12-feb-2026)*
+
+Pratice Questions On JDBC 
+- Added Program for Appointment Scheduling
+- Learned How to handle Prepared Statements
+
+🔗*Code Link* <br> 
+👉 [Day 50 - JDBC](https://github.com/KartikChourey/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/JDBC/practice/src/main/java/practice)
+
+---
+
+### 📅 Day 51  – JDBC
+*(Date: 13-feb-2026)*
+
+Pratice Questions On JDBC 
+- Added Program for Billing  Management
+- Learned How to use transaction Commands with JDBC
+
+🔗*Code Link* <br> 
+👉 [Day 51 - JDBC](https://github.com/KartikChourey/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/JDBC/practice/src/main/java/practice)
+
+---
+
+### 📅 Day 52  – JDBC
+*(Date: 14-feb-2026)*
+
+Pratice Questions On JDBC 
+- Added Program for Doctor Management and Updated Database
+- Added Program for Patient Management and Updated Database
+
+🔗*Code Link* <br> 
+👉 [Day 52 - JDBC](https://github.com/KartikChourey/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/JDBC/practice/src/main/java/practice)
+
+---
+
+
+
+
 
 
 
